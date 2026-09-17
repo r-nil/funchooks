@@ -1,3 +1,5 @@
+if funchooks then return end --魔了?
+
 -- Name: sh_saveestuffs_funchooks.lua
 -- Author: Savee14702(Savee)/Savee39672(Nellie)
 -- Purpose: Add meta function hooks(so you dont have to modify the functions)
